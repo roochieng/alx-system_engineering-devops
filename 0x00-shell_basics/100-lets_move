@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [Z-A]* /tmp/u
+mv grep | "^[Z-A]" /tmp/u
