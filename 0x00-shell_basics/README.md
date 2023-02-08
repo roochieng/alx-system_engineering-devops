@@ -1,1 +1,3 @@
-System engineering devopes
+#!/bin/bash
+pwd = print working directory
+
