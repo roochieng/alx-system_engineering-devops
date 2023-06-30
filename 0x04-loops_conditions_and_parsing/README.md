@@ -90,3 +90,10 @@ Create a RSA key pair.
   - If you decide to add a passphrase to your key, make sure to save this passphrase in a secure location, you will not be able to use your keys without the passphrase
 
 SSH and RSA keys will be covered in depth in a later project.
+
+
+#### Task Number 5:
+For the most curious:
+
+- [8 in the Chinese culture](https://freakonomics.com/)
+- [4 in the Chinese culture](https://en.wikipedia.org/wiki/Chinese_numerology#Four)
