@@ -4,13 +4,13 @@
 For this project, we expect you to look at these concepts:
 
 - DNS: 
-###  - Basics [Learn everything about DNS cartoon](https://howdns.works/)
+  - Basics [Learn everything about DNS cartoon](https://howdns.works/)
   - Be sure to know the main DNS record types
 	- [A](https://support.dnsimple.com/articles/a-record/)
 	- [CNAME](https://en.wikipedia.org/wiki/CNAME_record)
 	- [MX](https://en.wikipedia.org/wiki/MX_record)
 	- [TXT](https://en.wikipedia.org/wiki/TXT_record)
-###  - Advanced
+  - Advanced
 	- [Use DNS to scale with round-robin DNS](https://www.dnsknowledge.com/whatis/round-robin-dns/)
 	- [What’s an NS Record?](https://support.dnsimple.com/articles/ns-record/)
 	- [What’s an SOA Record?](https://support.dnsimple.com/articles/soa-record/)
