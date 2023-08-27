@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-HOST server1
-     HostName 34.234.193.37
-     User ubuntu
-     IdentityFile ~/.ssh/school
-     Port 22
+# connect to your server using the private key ~/.ssh/school
+# echo "SSH Public key" >> ~/.ssh/authorized_keys
+ssh -i ~/.ssh/school ubuntu@34.234.193.37
