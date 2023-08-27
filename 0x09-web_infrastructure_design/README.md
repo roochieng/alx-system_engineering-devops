@@ -16,7 +16,7 @@ For this project, we expect you to look at these concepts:
 	- [What’s an SOA Record?](https://support.dnsimple.com/articles/soa-record/)
 - [Monitoring](https://intranet.alxswe.com/concepts/13)
 - Web Server: [Wikipedia about web server](https://en.wikipedia.org/wiki/Web_server), [Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server), [Waht is a web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
-- Network basics: [Protocol](https://www.techtarget.com/searchnetworking/definition/protocol), [Ip Addreaa](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm), [TCP/IP](https://www.avast.com/c-what-is-tcp-ip#), [IP Port](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
+- Network basics: [Protocol](https://www.techtarget.com/searchnetworking/definition/protocol), [Ip Address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm), [TCP/IP](https://www.avast.com/c-what-is-tcp-ip#), [IP Port](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
 - Load balancer: [Read 1](https://www.thegeekstuff.com/2016/01/load-balancer-intro/) and [Read 2](https://community.f5.com/t5/technical-articles/intro-to-load-balancing-for-developers-the-algorithms/ta-p/273759)
 - Server: [Read](https://en.wikipedia.org/wiki/Server_(computing)#Hardware_requirement), [watch video 1](https://www.youtube.com/watch?v=B1ANfsDyjeA) and [video 2](https://www.youtube.com/watch?t=33&v=iuqXFC_qIvA)
 
