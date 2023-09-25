@@ -24,7 +24,7 @@ if __name__ == '__main__':
         # total tasks
         total = len(to_do_response)
         # completed tasks
-        comp = sum(element['completed'] is True for elem in to_do_response)
+        comp = sum(elem['completed'] is True for elem in to_do_response)
         # formatting output
         print(f"Employee {name} is done with tasks({comp}/{total}):")
         # printing incdividual remaining tasks
